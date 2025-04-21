@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+浏览器智能助手设计与实现.md
+# Virtual environments
+.venv
+agent_workflow.log
+graph_old_2.py
+run_agent.py
+test_graph.py
+browser-agent-old.html
